@@ -40,9 +40,9 @@ I'm **Sachin Jariyal**, a passionate 💻 Lead Full Stack Engineer from India �
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachinjariyal9&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sachin-jariyal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sachinjariyal9&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sachin-jariyal&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
