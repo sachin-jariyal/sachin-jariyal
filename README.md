@@ -1,4 +1,4 @@
-## Hi there I am [<img src="https://img.shields.io/badge/Sachin%20Jariyal-LinkedIn-blue?logo=linkedin&style=flat-square" />](https://linkedin.com/in/sachin-jariyal) 👋
+## Hi there I am [Sachin Jariyal](https://linkedin.com/in/sachin-jariyal) 👋
 
 <!--
 **sachin-jariyal/sachin-jariyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,7 +49,7 @@ I'm **Sachin Jariyal**, a passionate 💻 Lead Full Stack Engineer from India �
 
 ### 🧠 Fun Projects & Contributions
 
-- 🔧 Built scalable backend APIs with **ExpressJS + NestJS + MongoDB**
+- 🔧 Built scalable backend APIs with **Spring Boot + ExpressJS + NestJS + MongoDB**
 - 🧾 Integrated **QuickBooks, Stripe, and Plaid APIs** into a secure Fintech platform
 - 📦 Worked on high-throughput **IoT messaging apps** with **MQTT + BullMQ**
 - 💡 Mentored junior developers and helped improve sprint velocity by 30%
