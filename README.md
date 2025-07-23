@@ -11,9 +11,9 @@ I'm **Sachin Jariyal**, a passionate 💻 Lead Full Stack Engineer from India �
 ### 🚀 About Me
 
 - 🔭 I’m currently leading microservices-based enterprise platforms at **TCS**
-- 🌱 I’m expanding my cloud and architecture skills with **AWS**, **NestJS**, and **System Design**
+- 🌱 I’m expanding my cloud and architecture skills with **AWS**, **Data Structures**, and **System Design**
 - 👯 I’m looking to collaborate on open-source, developer tools, or scalable backend systems
-- 💬 Ask me about **Node.js**, **NestJS**, **Java**, **Microservices**, **DevOps**, or **Cloud Engineering**
+- 💬 Ask me about **Java**, **Node.js**, **ReactJS**, **Angular**, **PHP**, **Microservices**, **DevOps**, or **Cloud Engineering**
 - 📫 Reach out via [LinkedIn](https://linkedin.com/in/sachin-jariyal) | [Email](mailto:sachinjariyal9@gmail.com)
 - ⚡ Fun fact: I’ve built with **Java, Node.js, React, Angular, PHP, Laravel**, and even **Dialogflow**!
 
@@ -34,7 +34,7 @@ I'm **Sachin Jariyal**, a passionate 💻 Lead Full Stack Engineer from India �
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachin-jariyal&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sachin-jariyal&show_icons=true&theme=tokyonight" width="50%" />
 </p>
 
 ---
