@@ -1,4 +1,4 @@
-## Hi there I am Sachin Jariyal👋
+## Hi there I am [<img src="https://img.shields.io/badge/Sachin%20Jariyal-LinkedIn-blue?logo=linkedin&style=flat-square" />](https://linkedin.com/in/sachin-jariyal) 👋
 
 <!--
 **sachin-jariyal/sachin-jariyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,7 +35,6 @@ I'm **Sachin Jariyal**, a passionate 💻 Lead Full Stack Engineer from India �
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sachin-jariyal&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=sachin-jariyal&theme=tokyonight" width="48%" />
 </p>
 
 ---
