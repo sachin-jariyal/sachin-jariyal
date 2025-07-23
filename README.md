@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I am Sachin Jariyal👋
 
 <!--
 **sachin-jariyal/sachin-jariyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,7 +35,15 @@ I'm **Sachin Jariyal**, a passionate 💻 Lead Full Stack Engineer from India �
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sachin-jariyal&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=sachin-jariyal&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=sachin-jariyal&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+### 📈 Contribution Heatmap & Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-jariyal&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
