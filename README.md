@@ -4,7 +4,7 @@
 **sachin-jariyal/sachin-jariyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm **Sachin Jariyal**, a passionate 💻 Lead Full Stack Engineer from India 🇮🇳 with over **11 years** of professional experience building scalable enterprise solutions.
+I'm **Sachin Jariyal**, a passionate 💻 Lead Full Stack Engineer from India 🇮🇳 with over **11+ years** of professional experience building scalable enterprise solutions.
 
 ---
 
