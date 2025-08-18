@@ -4,13 +4,13 @@
 
 <!-- ![Visitor Badge](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)) -->
 
-[![LinkedIn Sachin Jariyal](https://img.shields.io/badge/sachinjariyal-linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/hrishikeshpaul/)
-[![Resume Hrishikesh Paul](https://img.shields.io/badge/paul-resume-green?style=for-the-badge)](https://drive.google.com/file/d/1uhexasJsa_7s_jEDtRe07bC52p2QEZa5/view?usp=sharing)
-[![Hrishikesh Paul Portfolio](https://img.shields.io/badge/HP.IO-portfolio-orange?style=for-the-badge)](https://hrishikeshpaul.github.io)
+[![LinkedIn Sachin Jariyal](https://img.shields.io/badge/sachinjariyal-linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/sachin-jariyal/)
+[![Resume Sachin Jariyal](https://img.shields.io/badge/paul-resume-green?style=for-the-badge)](https://drive.google.com/file/d/1k75r0A-Ihtz-_nWFVTbWjZmVIYp5zAAE/view?usp=drive_link)
+[![Sachin Jariyal Portfolio](https://img.shields.io/badge/HP.IO-portfolio-orange?style=for-the-badge)](https://github.com/sachin-jariyal)
 
-Welcome to my GitHub! I'm Hrishikesh, a Full Stack Engineer at [Snap Inc.](https://snap.com/en-US) based out of Santa Monica, California. I graduated from Indiana University with a Master of Science degree in Computer Science, with an interest in Software Development, UX Design and Artificial Intelligence!
+Welcome to my GitHub! I'm Sachin, a Full Stack Engineer at [TCS.](https://www.tcs.com/) based out of Hyderabad, India. I graduated from Punjabi University with a Master of Computer Applications degree in Computer Applications, with an interest in Software Development and Artificial Intelligence!
 
-As an international student, I have repeatedly been exposed to new cultures and diverse groups of people. This has made me able to quickly adapt to changes, and gain a broader perspective. I’m always curious about technology and enjoy learning. I am a detail oriented person and I keep my goals and tasks organized to maintain productivity.
+As an experienced developer, I have repeatedly been exposed to new cultures and diverse groups of people. This has made me able to quickly adapt to changes, and gain a broader perspective. I’m always curious about technology and enjoy learning. I am a detail oriented person and I keep my goals and tasks organized to maintain productivity.
 
 <table width="100%">
     <tr>
