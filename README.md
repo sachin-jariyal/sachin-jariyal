@@ -81,7 +81,11 @@ As an international student, I have repeatedly been exposed to new cultures and 
 <!--
 **hrishikeshpaul/hrishikeshpaul** is a ✨ _special_ ✨ 👋 repository because its `README.md` (this file) appears on your GitHub profile.
 
+<<<<<<< HEAD
 Here are some ideas to get you started:
+=======
+I'm **Sachin Jariyal**, a passionate 💻 Lead Full Stack Engineer from India 🇮🇳 with over **11+ years** of professional experience building scalable enterprise solutions.
+>>>>>>> 507fadc856d265171a9e182b1ca84a45a95ab76d
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
