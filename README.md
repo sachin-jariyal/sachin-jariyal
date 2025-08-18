@@ -60,9 +60,9 @@ As an experienced developer, I have repeatedly been exposed to new cultures and 
 <!-- Currently seeking full time positions for software engineer, software development, ux engineer, web design roles. -->
 
 
-<!-- [![Hrishikesh Paul's github stats](https://github-readme-stats.vercel.app/api?username=hrishikeshpaul&count_private=true&theme=react)](https://github.com/hrishikeshpaul)
+<!-- [![Sachin Jariyal's github stats](https://github-readme-stats.vercel.app/api?username=sachin-jariyal&count_private=true&theme=react)](https://github.com/sachin-jariyal)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrishikeshpaul&exclude_repo=music-sheet-recognizer-backend,padding-oracle-attack,bsqli-webgoat,IJK-Game,horizon-detection,invoicerecognition,pos-tagger,noq,music-sheet-recognizer-frontend,reverse_image_search&count_private=true&theme=react&hide=csharp&layout=compact)](https://github.com/hrihikeshpaul/) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-jariyal&exclude_repo=music-sheet-recognizer-backend,padding-oracle-attack,bsqli-webgoat,IJK-Game,horizon-detection,invoicerecognition,pos-tagger,noq,music-sheet-recognizer-frontend,reverse_image_search&count_private=true&theme=react&hide=csharp&layout=compact)](https://github.com/sachin-jariyal/) -->
 
 #### Open Source Contribution
 
@@ -78,23 +78,3 @@ As an experienced developer, I have repeatedly been exposed to new cultures and 
 <p align="top">
     <img width="100" src="https://komarev.com/ghpvc/?username=hrishikeshpaul&style=flat-square&label=Visitor+Count" />
 </p>
-
-
-<!--
-**hrishikeshpaul/hrishikeshpaul** is a ✨ _special_ ✨ 👋 repository because its `README.md` (this file) appears on your GitHub profile.
-
-<<<<<<< HEAD
-Here are some ideas to get you started:
-=======
-I'm **Sachin Jariyal**, a passionate 💻 Lead Full Stack Engineer from India 🇮🇳 with over **11+ years** of professional experience building scalable enterprise solutions.
->>>>>>> 507fadc856d265171a9e182b1ca84a45a95ab76d
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
