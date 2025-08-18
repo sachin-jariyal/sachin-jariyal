@@ -72,7 +72,7 @@ As an experienced developer, I have repeatedly been exposed to new cultures and 
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sachin-jariyal&count_private=true&theme=react" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-jariyal&exclude_repo=music-sheet-recognizer-backend,pos-tagger,noq,music-sheet-recognizer-frontend,reverse_image_search&count_private=true&theme=react&hide=csharp&layout=compact" width="40%" style="margin-left: 8px" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-jariyal&count_private=true&theme=react&hide=csharp&layout=compact" width="40%" style="margin-left: 8px" /> 
 </p>
 
 <p align="top">
