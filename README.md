@@ -64,17 +64,17 @@ As an experienced developer, I have repeatedly been exposed to new cultures and 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-jariyal&exclude_repo=music-sheet-recognizer-backend,padding-oracle-attack,bsqli-webgoat,IJK-Game,horizon-detection,invoicerecognition,pos-tagger,noq,music-sheet-recognizer-frontend,reverse_image_search&count_private=true&theme=react&hide=csharp&layout=compact)](https://github.com/sachin-jariyal/) -->
 
-#### Open Source Contribution
+#### Open Source Contribution  
 
 - Opened Issue [#5554](https://github.com/chakra-ui/chakra-ui/issues/5554) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
 
 <br />
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrishikeshpaul&count_private=true&theme=react" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishikeshpaul&exclude_repo=music-sheet-recognizer-backend,pos-tagger,noq,music-sheet-recognizer-frontend,reverse_image_search&count_private=true&theme=react&hide=csharp&layout=compact" width="40%" style="margin-left: 8px" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=sachin-jariyal&count_private=true&theme=react" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-jariyal&exclude_repo=music-sheet-recognizer-backend,pos-tagger,noq,music-sheet-recognizer-frontend,reverse_image_search&count_private=true&theme=react&hide=csharp&layout=compact" width="40%" style="margin-left: 8px" /> 
 </p>
 
 <p align="top">
-    <img width="100" src="https://komarev.com/ghpvc/?username=hrishikeshpaul&style=flat-square&label=Visitor+Count" />
+    <img width="100" src="https://komarev.com/ghpvc/?username=sachin-jariyal&style=flat-square&label=Visitor+Count" />
 </p>
