@@ -20,8 +20,7 @@ As an experienced developer, I have repeatedly been exposed to new cultures and 
     <tr>
         <td>
             <ul>
-                
-                <li>Javascript/Typescript</li>
+                <li>Javascript/Typescript ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)</li>
                 <li>React</li>
                 <li>Angular / Angular JS</li>
                 <li>Node/ Express/Nest</li>
