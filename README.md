@@ -20,12 +20,12 @@ As an experienced developer, I have repeatedly been exposed to new cultures and 
     <tr>
         <td>
             <ul>
+                <li>Java/ SpringBoot</li>
                 <li>Javascript/Typescript</li>
-                <li>Python</li>
-                <li>React</>
-                <li>Angular 11</li>
-                <li>Node/Express</li>
-                <li>NoSQL (MongoDB)</li>
+                <li>React</li>
+                <li>Angular / Angular JS</li>
+                <li>Node/ Express/Nest</li>
+                <li>MongoDB/ MySQL/ PostgresSQL</li>
                 <li>HTML/CSS</li>
                 <li>CI/CD (Jenkins, GitHub Actions)</li>
             </ul>
