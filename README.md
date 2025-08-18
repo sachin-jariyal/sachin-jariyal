@@ -1,4 +1,4 @@
-<link href="https://github.com/hrishikeshpaul/hrishikeshpaul/blob/master/style.css" rel="stylesheet"></link>
+<link href="./style.css" rel="stylesheet"></link>
 
 ### Hi there! 👋
 
