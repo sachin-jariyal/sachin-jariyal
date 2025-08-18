@@ -34,12 +34,12 @@ As an experienced developer, I have repeatedly been exposed to new cultures and 
             <ul>
                 <li>Java/ SpringBoot</li>
                 <li>Kubernetes</li>
-                <li>Kubernetes</li>
-                <li>Kubernetes</li>
-                <li>Kubernetes</li>
-                <li>Kubernetes</li>
-                <li>Kubernetes</li>
-                <li>Kubernetes</li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
             </ul>
         </td>
     </tr>
