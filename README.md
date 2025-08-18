@@ -20,24 +20,22 @@ As an experienced developer, I have repeatedly been exposed to new cultures and 
     <tr>
         <td>
             <ul>
-                <li>Java/ SpringBoot</li>
-                <li>Javascript/Typescript</li>
+                
+                <li>Javascript/Typescript https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white</li>
                 <li>React</li>
                 <li>Angular / Angular JS</li>
                 <li>Node/ Express/Nest</li>
                 <li>MongoDB/ MySQL/ PostgresSQL</li>
                 <li>HTML/CSS</li>
                 <li>CI/CD (Jenkins, GitHub Actions)</li>
+                <li>Docker</li>
             </ul>
         </td>
         <td>
             <ul>
-                <li>Java</li>
-                <li>C/C++</li>
-                <li>Vue</li>
-                <li>Android</li>
+                <li>Java/ SpringBoot</li>
                 <li>Kubernetes</li>
-                <li>Docker</li>
+                
             </ul>
         </td>
     </tr>
