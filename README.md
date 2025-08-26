@@ -21,7 +21,7 @@ As an experienced developer, I have repeatedly been exposed to new cultures and 
     <tr>
         <td>
             <ul>
-                <li>Node/ Express/Nest</li>
+                <li>Node/ Express.js/Nest.js</li>
                 <li>Javascript</li>
                 <li>Typescript</li>
                 <li>React</li>
