@@ -6,7 +6,7 @@
 
 [![LinkedIn Sachin Jariyal](https://img.shields.io/badge/SACHIN_JARIYAL-LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sachin-jariyal/)
 [![Resume Sachin Jariyal](https://img.shields.io/badge/RESUME-green?style=for-the-badge&logoSize=auto)](https://drive.google.com/drive/folders/1iQDKSuxIYVMb_T2qD_Bxhpq3X_dza_fZ)
-[![Sachin Jariyal Portfolio](https://img.shields.io/badge/HP.IO-portfolio-orange?style=for-the-badge)](https://github.com/sachin-jariyal)
+[![Sachin Jariyal Portfolio](https://img.shields.io/badge/PORTFOLIO-orange?style=for-the-badge&logoSize=auto)](https://github.com/sachin-jariyal)
 [![Visitor Badge](https://komarev.com/ghpvc/?username=sachin-jariyal&style=flat-square)]
 
 Welcome to my GitHub! I'm Sachin, a Full Stack Engineer at [TCS.](https://www.tcs.com/) based out of Hyderabad, India. I graduated from Punjabi University with a Master of Computer Applications degree in Computer Applications, with an interest in Software Development and Artificial Intelligence!
