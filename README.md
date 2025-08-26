@@ -7,7 +7,7 @@
 [![LinkedIn Sachin Jariyal](https://img.shields.io/badge/sachinjariyal-linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/sachin-jariyal/)
 [![Resume Sachin Jariyal](https://img.shields.io/badge/paul-resume-green?style=for-the-badge)](https://drive.google.com/file/d/1k75r0A-Ihtz-_nWFVTbWjZmVIYp5zAAE/view?usp=drive_link)
 [![Sachin Jariyal Portfolio](https://img.shields.io/badge/HP.IO-portfolio-orange?style=for-the-badge)](https://github.com/sachin-jariyal)
-[Visitor Badge](https://komarev.com/ghpvc/?username=sachin-jariyal&style=flat-square)
+[![Visitor Badge](https://komarev.com/ghpvc/?username=sachin-jariyal&style=flat-square)]
 
 Welcome to my GitHub! I'm Sachin, a Full Stack Engineer at [TCS.](https://www.tcs.com/) based out of Hyderabad, India. I graduated from Punjabi University with a Master of Computer Applications degree in Computer Applications, with an interest in Software Development and Artificial Intelligence!
 
@@ -26,6 +26,7 @@ As an experienced developer, I have repeatedly been exposed to new cultures and 
                 <li>Typescript</li>
                 <li>React</li>
                 <li>Angular / Angular JS</li>
+                <li>GraphQL</li>
                 <li>MongoDB/ MySQL/ PostgresSQL</li>
                 <li>HTML/CSS</li>
                 <li>CI/CD (Jenkins, GitHub Actions)</li>
