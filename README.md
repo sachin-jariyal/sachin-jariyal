@@ -66,5 +66,5 @@ Currently seeking full time positions for Technical Archeitect, LEAD Fullstack D
 <br />
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sachin-jariyal&count_private=true&theme=react" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-jariyal&count_private=true&theme=react&hide=csharp&layout=compact" width="48%"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-jariyal&count_private=true&theme=react&hide=csharp&layout=compact" width="45%"/> 
 </p>
