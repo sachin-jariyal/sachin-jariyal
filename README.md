@@ -5,7 +5,7 @@
 
 
 [![LinkedIn Sachin Jariyal](https://img.shields.io/badge/SACHIN_JARIYAL-LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sachin-jariyal/)
-[![Resume Sachin Jariyal](https://img.shields.io/badge/RESUME-green?style=for-the-badge&logoSize=auto)](https://drive.google.com/drive/folders/1iQDKSuxIYVMb_T2qD_Bxhpq3X_dza_fZ)
+[![Resume Sachin Jariyal](https://img.shields.io/badge/DOWNLOAD_RESUME-green?style=for-the-badge&logoSize=auto)](https://drive.google.com/drive/folders/1iQDKSuxIYVMb_T2qD_Bxhpq3X_dza_fZ)
 [![Sachin Jariyal Portfolio](https://img.shields.io/badge/PORTFOLIO-orange?style=for-the-badge&logoSize=auto)](https://github.com/sachin-jariyal)
 [![Visitor Badge](https://komarev.com/ghpvc/?username=sachin-jariyal&style=for-the-badge)](https://github.com/sachin-jariyal)
 
