@@ -23,8 +23,7 @@ As an experienced developer, I have repeatedly been exposed to new cultures and 
             <ul>
                 <li>Node/ Express.js/Nest.js</li>
                 <li>Javascript</li>
-                <li>Typescript</li>
-                <li>React</li>
+                <li>React(TS)</li>
                 <li>Angular / Angular JS</li>
                 <li>GraphQL</li>
                 <li>MongoDB/ MySQL/ PostgresSQL</li>
