@@ -2,7 +2,7 @@
 
 ### Hi there! 👋
 
-<!-- ![Visitor Badge](https://komarev.com/ghpvc/?username=sachin-jariyal&style=flat-square)) -->
+[![Visitor Badge](https://komarev.com/ghpvc/?username=sachin-jariyal&style=flat-square))]
 
 [![LinkedIn Sachin Jariyal](https://img.shields.io/badge/sachinjariyal-linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/sachin-jariyal/)
 [![Resume Sachin Jariyal](https://img.shields.io/badge/paul-resume-green?style=for-the-badge)](https://drive.google.com/file/d/1k75r0A-Ihtz-_nWFVTbWjZmVIYp5zAAE/view?usp=drive_link)
