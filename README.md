@@ -2,7 +2,7 @@
 
 ### Hi there! 👋
 
-<!-- ![Visitor Badge](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)) -->
+<!-- ![Visitor Badge](https://komarev.com/ghpvc/?username=sachin-jariyal&style=flat-square)) -->
 
 [![LinkedIn Sachin Jariyal](https://img.shields.io/badge/sachinjariyal-linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/sachin-jariyal/)
 [![Resume Sachin Jariyal](https://img.shields.io/badge/paul-resume-green?style=for-the-badge)](https://drive.google.com/file/d/1k75r0A-Ihtz-_nWFVTbWjZmVIYp5zAAE/view?usp=drive_link)
@@ -20,10 +20,11 @@ As an experienced developer, I have repeatedly been exposed to new cultures and 
     <tr>
         <td>
             <ul>
-                <li>Javascript/Typescript</li>
+                <li>Node/ Express/Nest</li>
+                <li>Javascript</li>
+                <li>Typescript</li>
                 <li>React</li>
                 <li>Angular / Angular JS</li>
-                <li>Node/ Express/Nest</li>
                 <li>MongoDB/ MySQL/ PostgresSQL</li>
                 <li>HTML/CSS</li>
                 <li>CI/CD (Jenkins, GitHub Actions)</li>
@@ -34,9 +35,9 @@ As an experienced developer, I have repeatedly been exposed to new cultures and 
             <ul>
                 <li>Java/ SpringBoot</li>
                 <li>Kubernetes</li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li>PHP</li>
+                <li>Laravel</li>
+                <li>CakePHP</li>
                 <li></li>
                 <li></li>
                 <li></li>
@@ -55,14 +56,14 @@ As an experienced developer, I have repeatedly been exposed to new cultures and 
 
 
 
-<!-- <h3>✨ Open to work </h3> -->
+<h3>✨ Open to work </h3>
 
-<!-- Currently seeking full time positions for software engineer, software development, ux engineer, web design roles. -->
+Currently seeking full time positions for software engineer, software development, ux engineer, web design roles.
 
 
-<!-- [![Sachin Jariyal's github stats](https://github-readme-stats.vercel.app/api?username=sachin-jariyal&count_private=true&theme=react)](https://github.com/sachin-jariyal)
+[![Sachin Jariyal's github stats](https://github-readme-stats.vercel.app/api?username=sachin-jariyal&count_private=true&theme=react)](https://github.com/sachin-jariyal)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-jariyal&exclude_repo=music-sheet-recognizer-backend,padding-oracle-attack,bsqli-webgoat,IJK-Game,horizon-detection,invoicerecognition,pos-tagger,noq,music-sheet-recognizer-frontend,reverse_image_search&count_private=true&theme=react&hide=csharp&layout=compact)](https://github.com/sachin-jariyal/) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-jariyal&exclude_repo=music-sheet-recognizer-backend,padding-oracle-attack,bsqli-webgoat,IJK-Game,horizon-detection,invoicerecognition,pos-tagger,noq,music-sheet-recognizer-frontend,reverse_image_search&count_private=true&theme=react&hide=csharp&layout=compact)](https://github.com/sachin-jariyal/)
 
 #### Open Source Contribution  
 
