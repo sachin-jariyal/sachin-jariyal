@@ -57,20 +57,8 @@ As an experienced developer, I have repeatedly been exposed to new cultures and 
 
 
 <h3>✨ Open to work </h3>
-
 Currently seeking full time positions for software engineer, software development, ux engineer, web design roles.
-
-
-[![Sachin Jariyal's github stats](https://github-readme-stats.vercel.app/api?username=sachin-jariyal&count_private=true&theme=react)](https://github.com/sachin-jariyal)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-jariyal&exclude_repo=music-sheet-recognizer-backend,padding-oracle-attack,bsqli-webgoat,IJK-Game,horizon-detection,invoicerecognition,pos-tagger,noq,music-sheet-recognizer-frontend,reverse_image_search&count_private=true&theme=react&hide=csharp&layout=compact)](https://github.com/sachin-jariyal/)
-
-#### Open Source Contribution  
-
-- Opened Issue [#5554](https://github.com/chakra-ui/chakra-ui/issues/5554) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
-
 <br />
-
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sachin-jariyal&count_private=true&theme=react" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-jariyal&count_private=true&theme=react&hide=csharp&layout=compact" width="40%" style="margin-left: 8px" /> 
