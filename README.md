@@ -57,7 +57,10 @@ As an experienced developer, I have repeatedly been exposed to new cultures and 
 
 
 <h3>✨ Open to work </h3>
-Currently seeking full time positions for software engineer, software development, ux engineer, web design roles.
+Currently seeking full time positions for Technical Archeitect, LEAD Fullstack Developer (MERN, MEAN).
+<br />
+<br />
+<br />
 <br />
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sachin-jariyal&count_private=true&theme=react" width="50%" />
