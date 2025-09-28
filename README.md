@@ -9,7 +9,7 @@
 [![Sachin Jariyal Portfolio](https://img.shields.io/badge/VISIT_PORTFOLIO-orange?style=for-the-badge&logoSize=auto)](https://sachin-jariyal.netlify.app/)
 [![Visitor Badge](https://komarev.com/ghpvc/?username=sachin-jariyal&style=for-the-badge)](https://github.com/sachin-jariyal)
 
-Welcome to my GitHub! I'm Sachin, a Full Stack Engineer at [TCS.](https://www.tcs.com/) based out of Hyderabad, India. I graduated from Punjabi University with a Master of Computer Applications degree in Computer Applications, with an interest in Software Development and Artificial Intelligence!
+Welcome to my GitHub! I'm Sachin, a Full Stack Engineer at [TCS.](https://www.tcs.com/) based out of Chandigarh, India. I graduated from Punjabi University with a Master of Computer Applications degree in Computer Applications, with an interest in Software Development and Artificial Intelligence!
 
 As an experienced developer, I have repeatedly been exposed to new cultures and diverse groups of people. This has made me able to quickly adapt to changes, and gain a broader perspective. I’m always curious about technology and enjoy learning. I am a detail oriented person and I keep my goals and tasks organized to maintain productivity.
 
