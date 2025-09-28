@@ -24,9 +24,8 @@ As an experienced developer, I have repeatedly been exposed to new cultures and 
                 <li>Node/ Express.js/Nest.js</li>
                 <li>Javascript</li>
                 <li>React.js (TS)</li>
-                <li>Angular / Angular JS</li>
                 <li>GraphQL</li>
-                <li>MongoDB/ MySQL/ PostgresSQL</li>
+                <li>PostgresSQL/ MongoDB/ MySQL</li>
                 <li>HTML/CSS</li>
                 <li>CI/CD (Jenkins, GitHub Actions)</li>
                 <li>Docker</li>
@@ -36,12 +35,6 @@ As an experienced developer, I have repeatedly been exposed to new cultures and 
             <ul>
                 <li>Java/ SpringBoot</li>
                 <li>Kubernetes</li>
-                <li>PHP</li>
-                <li>Laravel</li>
-                <li>CakePHP</li>
-                <li></li>
-                <li></li>
-                <li></li>
             </ul>
         </td>
     </tr>
