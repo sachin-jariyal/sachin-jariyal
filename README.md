@@ -16,7 +16,6 @@ As an experienced developer, I have repeatedly been exposed to new cultures and 
 <table width="100%">
     <tr>
         <th> ⚡ Proficient in</th>
-        <th> 👌 Previously used</th>
     </tr>
     <tr>
         <td>
