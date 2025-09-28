@@ -21,6 +21,8 @@ As an experienced developer, I have repeatedly been exposed to new cultures and 
     <tr>
         <td>
             <ul>
+             <li>Java/ SpringBoot</li>
+                
                 <li>Node/ Express.js/Nest.js</li>
                 <li>Javascript</li>
                 <li>React.js (TS)</li>
@@ -29,11 +31,6 @@ As an experienced developer, I have repeatedly been exposed to new cultures and 
                 <li>HTML/CSS</li>
                 <li>CI/CD (Jenkins, GitHub Actions)</li>
                 <li>Docker</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>Java/ SpringBoot</li>
                 <li>Kubernetes</li>
             </ul>
         </td>
