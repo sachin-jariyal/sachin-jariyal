@@ -21,10 +21,9 @@ As an experienced developer, I have repeatedly been exposed to new cultures and 
     <tr>
         <td>
             <ul>
-                <li>Java/ SpringBoot</li>
-                <li>Node/ Express.js/Nest.js</li>
-                <li>React.js</li>
-                <li>Javascript/TypeScript</li>
+                <li>Java (SpringBoot)</li>
+                <li>Node.js (Express.js/Nest.js)</li>
+                <li>React.js (TypeScript)</li>
                 <li>PostgresSQL/ MongoDB/ MySQL/ </li>
                 <li>CI/CD (Jenkins, GitHub Actions)</li>
                 <li>Docker</li>
