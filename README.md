@@ -16,20 +16,27 @@ As an experienced developer, I have repeatedly been exposed to new cultures and 
 <table width="100%">
     <tr>
         <th> ⚡ Proficient in</th>
+        <th> 👌 Previously used</th>
     </tr>
     <tr>
         <td>
             <ul>
                 <li>Java/ SpringBoot</li>
                 <li>Node/ Express.js/Nest.js</li>
-                <li>Javascript</li>
-                <li>React.js (TS)</li>
-                <li>GraphQL</li>
-                <li>PostgresSQL/ MongoDB/ MySQL</li>
-                <li>HTML/CSS</li>
+                <li>React.js</li>
+                <li>Javascript/TypeScript</li>
+                <li>PostgresSQL/ MongoDB/ MySQL/ </li>
                 <li>CI/CD (Jenkins, GitHub Actions)</li>
                 <li>Docker</li>
                 <li>Kubernetes</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>GraphQL</li>
+                <li>Angular / Angular JS</li>
+                <li>PHP</li>
+                <li>Laravel</li>
             </ul>
         </td>
     </tr>
