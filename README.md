@@ -21,18 +21,17 @@ As an experienced developer, I have repeatedly been exposed to new cultures and 
     <tr>
         <td>
             <ul>
-                <li>Java (SpringBoot)</li>
                 <li>Node.js (Express.js/Nest.js)</li>
                 <li>React.js (TypeScript)</li>
                 <li>PostgresSQL/ MongoDB/ MySQL/ </li>
                 <li>CI/CD (Jenkins, GitHub Actions)</li>
                 <li>Docker</li>
                 <li>Kubernetes</li>
+                <li>Kafka</li>
             </ul>
         </td>
         <td>
             <ul>
-                <li>GraphQL</li>
                 <li>Angular / Angular JS</li>
                 <li>PHP</li>
                 <li>Laravel</li>
