@@ -53,7 +53,7 @@ Microservices · Distributed systems · Cloud · Systems design · Event-driven 
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,java,spring,aws,docker,kubernetes,postgres,mongodb,redis" alt="Tech stack including React" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,nodejs,express,java,spring,graphql,aws,docker,postgres,redis,kafka,prisma" alt="Tech stack: React, Next.js, Angular, TypeScript, JavaScript, Node.js, Express, Java, Spring, GraphQL, AWS, Docker, Postgres, Redis, Kafka, Prisma" />
     </td>
   </tr>
 </table>
