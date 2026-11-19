@@ -2,7 +2,7 @@
 
 ### Hi there! 👋
 
-**Solution Architect** · Microservices · Distributed Systems · Cloud · Systems Design · 12+ years
+**Solution Architect** · **Fullstack Engineer** · Microservices · Distributed Systems · Cloud · Systems Design · 12+ years
 
 [![LinkedIn Sachin Jariyal](https://img.shields.io/badge/SACHIN_JARIYAL-LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sachin-jariyal/)
 [![Resume Sachin Jariyal](https://img.shields.io/badge/DOWNLOAD_RESUME-green?style=for-the-badge&logoSize=auto)](https://drive.google.com/file/d/1uClNYtXqSLY3AEeLYZfe_ENkg26ret06/view?usp=drive_link)
@@ -31,20 +31,11 @@ Microservices · Distributed systems · Cloud · Systems design · Event-driven 
 | Assistant Consultant | [Tata Consultancy Services](https://www.tcs.com/) | Oct 2022 – Nov 2022 | Hyderabad |
 | Technical Lead | [Netsmartz](https://www.netsmartz.com/) | Sep 2020 – Sep 2022 | Chandigarh |
 | Senior Consultant | [Seasia Infotech](https://www.seasiainfotech.com/) | Aug 2018 – May 2020 | Mohali |
-| Senior Software Engineer | Igniva Infotech | Mar 2015 – Aug 2018 | Ajitgarh |
+| Senior Software Engineer | Igniva Infotech | Mar 2015 – Aug 2018 | Mohali |
 | Senior Software Engineer | Miracle Group | Feb 2014 – Feb 2015 | Chandigarh |
-| Junior Developer | Master Software Solutions | Sep 2013 – Jan 2014 | Panchkula |
+| Junior Developer | Master Software Solutions | Sep 2013 – Jan 2014 | Mohali |
 
 <h3>🎓 Education</h3>
 
 - **Master of Computer Applications (MCA)**, Computer Science — [Punjabi University](https://www.punjabiuniversity.ac.in/)
 - **Bachelor of Computer Applications (BCA)**, Computer Science — Himachal Pradesh University
-
-<h3>🗣️ Languages</h3>
-
-English · Hindi · Punjabi
-
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachin-jariyal&count_private=true&theme=react" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-jariyal&count_private=true&theme=react&hide=csharp&layout=compact" width="45%"/>
-</p>
