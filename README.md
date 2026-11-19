@@ -51,9 +51,4 @@ Microservices · Distributed systems · Cloud · Systems design · Event-driven 
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-jariyal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Sachin Jariyal most used languages" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,nodejs,express,java,spring,graphql,aws,docker,postgres,redis,kafka,prisma" alt="Tech stack: React, Next.js, Angular, TypeScript, JavaScript, Node.js, Express, Java, Spring, GraphQL, AWS, Docker, Postgres, Redis, Kafka, Prisma" />
-    </td>
-  </tr>
 </table>
