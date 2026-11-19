@@ -26,7 +26,7 @@ Microservices · Distributed systems · Cloud · Systems design · Event-driven 
 
 | Role | Company | When | Where |
 | --- | --- | --- | --- |
-| Senior Staff Engineer | [Apar Technologies](https://www.apartechnologies.com/) | Jun 2026 – Present | Singapore |
+| Fullstack Engineer | [Apar Technologies](https://www.apartechnologies.com/) | Jun 2026 – Present | Singapore |
 | Technical Lead | [Tata Consultancy Services](https://www.tcs.com/) | Nov 2022 – Jun 2026 | Hyderabad |
 | Assistant Consultant | [Tata Consultancy Services](https://www.tcs.com/) | Oct 2022 – Nov 2022 | Hyderabad |
 | Technical Lead | [Netsmartz](https://www.netsmartz.com/) | Sep 2020 – Sep 2022 | Chandigarh |
@@ -49,6 +49,11 @@ Microservices · Distributed systems · Cloud · Systems design · Event-driven 
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-jariyal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Sachin Jariyal most used languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,java,spring,aws,docker,kubernetes,postgres,mongodb,redis" alt="Tech stack including React" />
     </td>
   </tr>
 </table>
