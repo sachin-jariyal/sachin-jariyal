@@ -42,11 +42,13 @@ Microservices · Distributed systems · Cloud · Systems design · Event-driven 
 
 <h3>📊 GitHub Stats</h3>
 
-<p align="center">
-  <a href="https://github.com/sachin-jariyal">
-    <img src="https://github-readme-stats.vercel.app/api?username=sachin-jariyal&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Sachin Jariyal GitHub stats" />
-  </a>
-  <a href="https://github.com/sachin-jariyal">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-jariyal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Sachin Jariyal most used languages" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sachin-jariyal&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Sachin Jariyal GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-jariyal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Sachin Jariyal most used languages" />
+    </td>
+  </tr>
+</table>
