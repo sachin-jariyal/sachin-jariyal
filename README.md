@@ -39,3 +39,10 @@ Microservices · Distributed systems · Cloud · Systems design · Event-driven 
 
 - **Master of Computer Applications (MCA)**, Computer Science — [Punjabi University](https://www.punjabiuniversity.ac.in/)
 - **Bachelor of Computer Applications (BCA)**, Computer Science — Himachal Pradesh University
+
+<h3>📊 GitHub Stats</h3>
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sachin-jariyal&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Sachin Jariyal GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-jariyal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Sachin Jariyal most used languages" />
+</p>
