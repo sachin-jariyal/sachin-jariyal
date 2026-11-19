@@ -26,7 +26,7 @@ Microservices · Distributed systems · Cloud · Systems design · Event-driven 
 
 | Role | Company | When | Where |
 | --- | --- | --- | --- |
-| Senior Staff Engineer | [Apar Technologies](https://www.apartechnologies.com/) | Jun 2026 – Present | Singapore |
+| Fullstack Engineer | [Apar Technologies](https://www.apartechnologies.com/) | Jun 2026 – Present | Singapore |
 | Technical Lead | [Tata Consultancy Services](https://www.tcs.com/) | Nov 2022 – Jun 2026 | Hyderabad |
 | Assistant Consultant | [Tata Consultancy Services](https://www.tcs.com/) | Oct 2022 – Nov 2022 | Hyderabad |
 | Technical Lead | [Netsmartz](https://www.netsmartz.com/) | Sep 2020 – Sep 2022 | Chandigarh |
